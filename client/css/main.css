@@ -1,0 +1,35 @@
+.btn-primary {
+    background: #a8a8a8;
+    border-color: #a8a8a8;
+}
+
+.brand {
+    margin-top: 10px;
+}
+
+.subheading {
+    padding: 5px;
+    font-weight: bold;
+}
+
+.droppable {
+    width: auto;
+    height: 70px;
+    color: #fff;
+    padding: 10px;
+}
+
+.selectable {
+    border-radius: 24px;
+    background: #7A46AA;
+    color: #fff;
+}
+
+.hide {
+    display: none;
+}
+
+.number {
+    padding-top: 24px;
+    font-size: 24px;
+}

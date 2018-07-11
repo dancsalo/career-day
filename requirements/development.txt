@@ -1,0 +1,19 @@
+ -r base.txt
+
+# Datasmith Engine
+git+https://github.com/ai-wordsmith/datasmith-engine.git@development
+
+# Parsemesan
+git+https://github.com/ai-wordsmith/parsemesan.git@development
+
+# Infermation
+git+https://github.com/ai-wordsmith/infermation.git@development
+
+# Raider
+git+https://github.com/ai-wordsmith/raider.git@development
+
+# Columnbus
+git+https://github.com/ai-invent/christinfer-columnbus.git@development
+
+# Composer
+git+https://github.com/ai-invent/composer.git@development
